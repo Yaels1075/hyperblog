@@ -1,7 +1,7 @@
 body{
     color: rosybrown;
     text-align: center;
-    font-family: comic sans ms;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 10px;
     margin: 0;
     padding: 0;
@@ -29,9 +29,9 @@ padding: 0,5em;
 }
 
 #cabecera #tagline{
-    margin-top: 80em;
+
     font-weight: normal;
-    font-size: 4em;
+    font-size: 9em;
    
 }
 #cabecera #tagline2{
