@@ -5,13 +5,16 @@ body{
     font-size: 10px;
     margin: 0;
     padding: 0;
+    background-image: url('https://pm1.aminoapps.com/6673/fb03fe30f847526057972226de2ccea79409e5b4_hq.jpg');
+    background-size: cover; /* Ajusta el tamaño para cubrir todo el fondo */
+    background-repeat: no-repeat;
 }
 
 #container{
    width: 70%;
    padding: 1em; 
    text-align: left;
-   border: 1px solid #311c1c;
+   border: 1px solid #ce7c7c;
    margin:  0 auto;
 }
 
